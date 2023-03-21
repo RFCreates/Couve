@@ -16,7 +16,7 @@
   --main-color: #253542;
 
   /* Borders */
-  --avatar-radius: 8px;
+  --avatar-radius: 10px;
 }
 
 /* Dark/Light vars */
@@ -25,8 +25,8 @@
   --background-primary: #0f0f0f;
   --background-secondary: #0d0d0d;
   --background-secondary-alt: #232426;
-  --background-secondary-alt-alt: ##303133;
-  --background-tertiary: ##22262e;
+  --background-secondary-alt-alt: #303133;
+  --background-tertiary: #22262e;
 
   --deprecated-store-bg: var(--background-primary);
   --background-floating: var(--background-secondary);
