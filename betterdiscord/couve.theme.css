@@ -24,8 +24,8 @@
   /* BGs */
   --background-primary: #0f0f0f;
   --background-secondary: #0d0d0d;
-  --background-secondary-alt: #1c2438;
-  --background-secondary-alt-alt: #1b1d31;
+  --background-secondary-alt: #232426;
+  --background-secondary-alt-alt: ##303133;
   --background-tertiary: #060c24;
 
   --deprecated-store-bg: var(--background-primary);
