@@ -13,10 +13,10 @@
   --version: "2.3.0";
 
   /* Colors */
-  --main-color: #253542;
+  --main-color: #0f0f0f;
 
   /* Borders */
-  --avatar-radius: 10px;
+  --avatar-radius: 15px;
 }
 
 /* Dark/Light vars */
@@ -38,7 +38,7 @@
   --colortransparency: #0003;
 
   /* Cards */
-  --card: #131414;
+  --card: #0f0f0f;
 
   /* Other stuff */
   --textcolor: #fff;
